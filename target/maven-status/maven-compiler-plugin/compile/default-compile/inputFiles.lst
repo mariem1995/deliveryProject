@@ -1,0 +1,14 @@
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/CarrefourApplication.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/configuration/conf.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/models/entities/Customer.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/models/entities/Reservation.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/models/entities/TimeSlot.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/models/enums/DeliveryMethod.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/models/enums/ReservationStatus.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/repositories/CustomerRepository.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/repositories/ReservationRepository.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/repositories/TimeSlotRepository.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/services/DeliveryService.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/services/TimeSlotService.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/services/impl/DeliveryServiceImpl.java
+/Users/mariemfeki/Downloads/carrefour/src/main/java/com/carrefour/delivery/services/impl/TimeSlotServiceImpl.java
